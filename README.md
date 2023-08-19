@@ -1,1 +1,39 @@
-# Maxim-Donation
+<!DOCTYPE html>
+<html>
+<head>
+<title>جدول HTML</title>
+</head>
+<body>
+<table>
+<thead>
+<tr>
+<th>الاسم</th>
+<th>العمر</th>
+<th>البريد الإلكتروني</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>أحمد</td>
+<td>25</td>
+<td>ahmed@example.com</td>
+</tr>
+<tr>
+<td>محمد</td>
+<td>30</td>
+<td>mohamed@example.com</td>
+</tr>
+<tr>
+<td>سارة</td>
+<td>28</td>
+<td>sara@example.com</td>
+</tr>
+<tr>
+<td>نور</td>
+<td>22</td>
+<td>nour@example.com</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
